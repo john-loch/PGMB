@@ -4500,9 +4500,9 @@
     "greed" : 46
   },
   {
-    "eSalary" : 20000000,
+    "eSalary" : 0,
     "injuryProneness" : 80,
-    "guarantee" : 11700000,
+    "guarantee" : 0,
     "length" : 1,
     "iden" : "3FF6367C-2026-44B8-93C3-70D4B7E5EA43",
     "wingspan" : 86,
@@ -4528,7 +4528,7 @@
       "Glasses1e",
       "Clothes1"
     ],
-    "eGuarantee" : 11700000,
+    "eGuarantee" : 0,
     "perimeterDefense" : 40,
     "interiorDefense" : 75,
     "greed" : 83,
@@ -4544,7 +4544,7 @@
     "clutch" : 90,
     "potential" : 84,
     "rating" : 84,
-    "eLength" : 4,
+    "eLength" : 0,
     "surname" : "Zubac",
     "growthType" : [
       0,
