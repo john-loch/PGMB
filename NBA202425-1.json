@@ -4500,7 +4500,7 @@
     "greed" : 46
   },
   {
-    "eSalary" : 1,
+    "eSalary" : 20000000,
     "injuryProneness" : 80,
     "guarantee" : 11700000,
     "length" : 1,
@@ -4528,13 +4528,13 @@
       "Glasses1e",
       "Clothes1"
     ],
-    "eGuarantee" : 1,
+    "eGuarantee" : 11700000,
     "perimeterDefense" : 40,
     "interiorDefense" : 75,
     "greed" : 83,
     "height" : 84,
     "speed" : 40,
-    "salary" : 0,
+    "salary" : 11700000,
     "agility" : 40,
     "secondPosition" : "",
     "closeShot" : 98,
@@ -4544,7 +4544,7 @@
     "clutch" : 90,
     "potential" : 84,
     "rating" : 84,
-    "eLength" : 1,
+    "eLength" : 4,
     "surname" : "Zubac",
     "growthType" : [
       0,
