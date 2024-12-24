@@ -4502,7 +4502,7 @@
   {
     "eSalary" : 0,
     "injuryProneness" : 80,
-    "guarantee" : 0,
+    "guarantee" : 11700000,
     "length" : 1,
     "iden" : "3FF6367C-2026-44B8-93C3-70D4B7E5EA43",
     "wingspan" : 86,
@@ -4534,7 +4534,7 @@
     "greed" : 83,
     "height" : 84,
     "speed" : 40,
-    "salary" : 11700000,
+    "salary" : 0,
     "agility" : 40,
     "secondPosition" : "",
     "closeShot" : 98,
