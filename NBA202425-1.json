@@ -46092,7 +46092,7 @@
     "interiorDefense" : 58,
     "clutch" : 45,
     "rating" : 68,
-    "eGuarantee" : 1900000,
+    "eGuarantee" : 1,
     "draftSeason" : 2024,
     "height" : 82,
     "injuryProneness" : 40,
@@ -46116,7 +46116,7 @@
     "eLength" : 1,
     "iden" : "DC980D66-964F-4629-9323-EB18AD42C4CF",
     "intelligence" : 50,
-    "eSalary" : 0,
+    "eSalary" : 1,
     "agility" : 78,
     "appearance" : [
       "Head5a",
@@ -46167,7 +46167,7 @@
     "length" : 1,
     "closeShot" : 74,
     "stamina" : 88,
-    "salary" : 0
+    "salary" : 1200000
   },
   {
     "forename" : "Raheem",
