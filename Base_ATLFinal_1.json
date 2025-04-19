@@ -1622,7 +1622,7 @@
   {
     "draftSeason": 2014,
     "interiorDefense": 40,
-    "teamID": "ATL",
+    "teamID": "DET",
     "salary": 0,
     "greed": 84,
     "appearance": [
@@ -39317,7 +39317,7 @@
     "draftSeason": 2020,
     "threePointShot": 76,
     "midRangeShot": 72,
-    "teamID": "LAC",
+    "teamID": "ATL",
     "age": 28,
     "dribbling": 75,
     "eLength": 1,
